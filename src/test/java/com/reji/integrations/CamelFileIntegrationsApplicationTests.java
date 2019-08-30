@@ -1,4 +1,4 @@
-package com.reji.integrations.camelfileintegrations;
+package com.reji.integrations;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

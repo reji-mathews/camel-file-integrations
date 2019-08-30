@@ -1,4 +1,4 @@
-package com.reji.integrations.camelfileintegrations.routes;
+package com.reji.integrations.routes;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
