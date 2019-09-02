@@ -1,0 +1,7 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Thurman, Paula</author>
+    <bookname>Splish Splash</bookname>
+    <cost>4.95</cost>
+    <content>A deep sea diver finds true love twenty
+            thousand leagues beneath the sea.</content>
+</book>

@@ -1,0 +1,8 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Corets, Eva</author>
+    <bookname>The Sundered Grail</bookname>
+    <cost>5.95</cost>
+    <content>The two daughters of Maeve, half-sisters,
+            battle one another for control of England. Sequel to
+            Oberon's Legacy.</content>
+</book>

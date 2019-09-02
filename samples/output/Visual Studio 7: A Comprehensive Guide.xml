@@ -1,0 +1,9 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Galos, Mike</author>
+    <bookname>Visual Studio 7: A Comprehensive Guide</bookname>
+    <cost>49.95</cost>
+    <content>Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are
+            integrated into a comprehensive development
+            environment.</content>
+</book>

@@ -1,0 +1,7 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Gambardella, Matthew</author>
+    <bookname>XML Developer's Guide</bookname>
+    <cost>44.95</cost>
+    <content>An in-depth look at creating applications
+            with XML.</content>
+</book>

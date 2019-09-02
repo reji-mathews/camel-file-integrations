@@ -1,0 +1,8 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Corets, Eva</author>
+    <bookname>Maeve Ascendant</bookname>
+    <cost>5.95</cost>
+    <content>After the collapse of a nanotechnology
+            society in England, the young survivors lay the
+            foundation for a new society.</content>
+</book>

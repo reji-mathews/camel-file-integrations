@@ -1,0 +1,8 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Ralls, Kim</author>
+    <bookname>Midnight Rain</bookname>
+    <cost>5.95</cost>
+    <content>A former architect battles corporate zombies,
+            an evil sorceress, and her own childhood to become queen
+            of the world.</content>
+</book>

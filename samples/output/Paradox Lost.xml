@@ -1,0 +1,8 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Kress, Peter</author>
+    <bookname>Paradox Lost</bookname>
+    <cost>6.95</cost>
+    <content>After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems
+            of being quantum.</content>
+</book>

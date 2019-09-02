@@ -1,0 +1,7 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>Knorr, Stefan</author>
+    <bookname>Creepy Crawlies</bookname>
+    <cost>4.95</cost>
+    <content>An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.</content>
+</book>

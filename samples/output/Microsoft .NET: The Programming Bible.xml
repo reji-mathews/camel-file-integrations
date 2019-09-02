@@ -1,0 +1,7 @@
+<book xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author>O'Brien, Tim</author>
+    <bookname>Microsoft .NET: The Programming Bible</bookname>
+    <cost>36.95</cost>
+    <content>Microsoft's .NET initiative is explored in
+            detail in this deep programmer's reference.</content>
+</book>
